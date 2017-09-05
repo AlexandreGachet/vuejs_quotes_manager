@@ -9,6 +9,8 @@ Available features:
  * Delete a quote
  * Display the quotes count in a progress bar
 
+![alt text](demo.gif)
+
 ## Build Setup
 
 ``` bash
