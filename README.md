@@ -1,6 +1,13 @@
-# vue-cli
+# Quotes Manager
+## Introduction
 
-> A Vue.js project
+A demo project based upon simple basic vuejs concepts.
+
+Available features:
+ * Edit a quote
+ * Display quotes in a grid
+ * Delete a quote
+ * Display the quotes count in a progress bar
 
 ## Build Setup
 
